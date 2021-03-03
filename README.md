@@ -9,7 +9,7 @@ Web Server<br/>
     For example, if the server port number is 8080, http://localhost:8080/500
     would be a valid URL if the server runs in the same host.<br/>
   -Server returns an HTML document according to the requested URI. The size of
-    the document is determined by the requested URI (any size between 100 and 20,000 bytes).
+    the document is determined by the requested URI (any size between 100 and 20,000 bytes).<br/>
   -Server sends back an HTTP response line with 400 status code that indicates an error if the requested<br/>
     URI is not a number, or is less than 100, or is greater than 20,000.<br/>
     As an example, the following document is 100 bytes long:<br/>
