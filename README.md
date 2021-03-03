@@ -4,7 +4,7 @@
 Project consists of 2 servers;
 
 Web Server
-  -Server program takes single argument which specifies the port number.\n
+  -Server program takes single argument which specifies the port number.<br/>
   -Server should work when connected via a web browser (such asGoogle Chrome).
    For example, if the server port number is 8080, http://localhost:8080/500
    would be a valid URL if the server runs in the same host..
