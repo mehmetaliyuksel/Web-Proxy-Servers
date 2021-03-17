@@ -13,5 +13,7 @@ Web Server<br/>
   -Server sends back an HTTP response line with 400 status code that indicates an error if the requested<br/>
     URI is not a number, or is less than 100, or is greater than 20,000.<br/>
     As an example, the following document is 100 bytes long:<br/>
-![image](https://user-images.githubusercontent.com/37842979/109806359-aba8a800-7c35-11eb-8649-889755fcbcf8.png)
+![image](https://user-images.githubusercontent.com/37842979/109806359-aba8a800-7c35-11eb-8649-889755fcbcf8.png)<br/><br/><br/>
+Proxy Server<br/>
+
 
